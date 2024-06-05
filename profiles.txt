@@ -1,17 +1,21 @@
-adminkece, admin, admin123, 0, none, none, none, indoor
-John Doe, john, doe, 25, INTP, Cooking, Reading, indoor
-Jane Smith, janesmith456, abcdefg, 30, INFJ, Hiking, Painting, outdoor
-Michael Johnson, mikej123, mjpass, 28, ENFP, Photography, Traveling, outdoor
-Emily Brown, emilyb, password456, 26, ISTJ, Gardening, Writing, indoor
-Sarah Davis, sarahd, ilovecats, 27, ISFP, Dancing, Swimming, indoor
-David Johnson, davidj89, davidpass123, 35, ENFJ, Traveling, Cooking, outdoor
-Jessica Lee, jesslee22, jess1234, 29, ISFP, Painting, Yoga, indoor
-Matthew Brown, mattbrown87, passmatt, 31, INTJ, Reading, Gaming, indoor
-Jennifer Wang, jenwang99, jennifer12, 27, ENTJ, Hiking, Photography, outdoor
-Ryan Taylor, ryantaylor123, ryanpass321, 33, ESTP, Sports, Fishing, outdoor
-Amanda Garcia, amandag89, amanda456, 30, ESFP, Dancing, Shopping, indoor
-Kevin Martinez, kevinm76, kevinpass789, 28, ISTP, Cooking, Gardening, outdoor
-Stephanie Nguyen, stephnguyen, steph123, 26, INFP, Writing, Traveling, indoor
-Jason Kim, jasonk123, jasonpass, 34, ISTJ, Fishing, Camping, outdoor
-Michelle Chen, michellec22, michellepass, 32, ENFP, Traveling, Photography, outdoor
-Yulia Sky, skyisyulias, 12345678, 29, INTJ, Sports, Diving, outdoor
+adminkece, admin, admin123, 0, tidak ada, tidak ada, tidak ada, Indoor, M
+John Doe, john, doe, 25, INTP, Memasak, Membaca, Indoor, M
+Jane Smith, janesmith456, abcdefg, 30, INFJ, Mendaki, Melukis, Outdoor, F
+Michael Johnson, mikej123, mjpass, 28, ENFP, Fotografi, Bepergian, Outdoor, M
+Emily Brown, emilyb, password456, 26, ISTJ, Berkebun, Menulis, Indoor, F
+Sarah Davis, sarahd, ilovecats, 27, ISFP, Menari, Berenang, Indoor, F
+David Johnson, davidj89, davidpass123, 35, ENFJ, Bepergian, Memasak, Outdoor, M
+Jessica Lee, jesslee22, jess1234, 29, ISFP, Melukis, Yoga, Indoor, F
+Matthew Brown, mattbrown87, passmatt, 31, INTJ, Membaca, Game, Indoor, M
+Jennifer Wang, jenwang99, jennifer12, 27, ENTJ, Mendaki, Fotografi, Outdoor, F
+Ryan Taylor, ryantaylor123, ryanpass321, 33, ESTP, Olahraga, Memancing, Outdoor, M
+Amanda Garcia, amandag89, amanda456, 30, ESFP, Menari, Belanja, Indoor, F
+Kevin Martinez, kevinm76, kevinpass789, 28, ISTP, Memasak, Berkebun, Outdoor, M
+Stephanie Nguyen, stephnguyen, steph123, 26, INFP, Menulis, Bepergian, Indoor, F
+Jason Kim, jasonk123, jasonpass, 34, ISTJ, Menari, Yoga, Outdoor, M
+Michelle Chen, michellec22, michellepass, 32, ENFP, Bepergian, Fotografi, Outdoor, F
+Yulia Sky, skyisyulias, 12345678, 29, INTJ, Olahraga, Menyelam, Outdoor, F
+Jenny Heart, jenzzzzz, shine123, 25, ESTP, Seni, Game, Indoor, F
+Grace Yunike, graceyunike, grace123, 19, INFJ, Membaca, Memasak, Outdoor, F
+Eudoria Richter, edrchtr, rich123, 18, INTJ, Teknologi, Origami, Indoor, F
+
